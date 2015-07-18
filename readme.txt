@@ -1,35 +1,5 @@
-# Flat
 
-* Author: YoArts
-* Author URL: http://www.yoarts.com
-* Contributer: @yoarts, @ghost, @ashfame, @kevinpapst, @abovethewater
-* License: GNU General Public License v3.0
-* License URI: http://www.gnu.org/licenses/gpl-3.0.html
-
-## Description
-
-Flat is a WordPress Blog Theme designed by YoArts. We would like to say that Flat is both beautiful and charming at the same time.
-
-## Features list
-
-* [Grunt](http://gruntjs.com/) for compiling LESS to CSS, checking for JS errors, live reloading, concatenating and minifying files
-* [Bower](http://bower.io/) for front-end package management
-* Responsive Layout
-* Off-Canvas Sidebar on Handheld Devices
-* Custom Background
-* Custom Sidebar Color
-* Editor Style
-* Write on HTML5 / LESS
-* [Bootstrap](http://getbootstrap.com/) 3.2.0
-* [Font Awesome](http://fontawesome.io/) 4.1.0
-* Compatible up to WordPress 3.9.2
-* Customize: Logo, Favicon, Sidebar Background Color, Archive Posts, Single Post
-* Google Fonts select for Customize: Body, Site Title, Heading, Sub-Heading
-* Translation Ready (Language available: English, German, French, Russian, Spanish, Brazil, Nederlands)
-
-## Resources
-
-Flat is built with the following resources:
+Kymeta 1.5 is a WordPress theme built with the following resources:
 
 **Code based on DW Minion**
 
